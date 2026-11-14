@@ -42,21 +42,14 @@ I also build tools for my everyday use that you might find useful. Most of my id
 </td>
 <td width="50%" valign="top">
 
-<h3>🗂️ The Vault Renamer</h3>
-<p>A tool for renaming and organizing sample libraries. Less time sorting files, more time making music.</p>
-<p><code>Python</code> · <code>PySide6</code> · <code>Samples</code></p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 <h3>🎛️ Audio experiments</h3>
 <p>Exploring ideas for plugins and Max for Live devices I'd want to use in my own sessions.</p>
 <p><code>Sound</code> · <code>M4L</code> · <code>Ideas in progress</code></p>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 <h3>🐧 My Linux workspace</h3>
 <p>Arch, Hyprland, custom dotfiles, and small tools that make everyday things feel better.</p>
